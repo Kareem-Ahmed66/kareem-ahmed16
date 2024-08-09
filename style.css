@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+    body {
+        height: 100vh;
+        font-family: night;
+        text-transform: capitalize;
+        background:
+            url('pexels-mikebirdy-120049.jpg');
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 100%;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+.overlay{
+        width: 100%;
+        height: 100%;
+        background-color: #b4d6cd83;
+
+}
+.div1{
+    border-color: darkgray;
+    border-style: double;
+    border-width: 20px;
+    text-align: center;
+    font-size: 15px;
+    color: burlywood;
+}
